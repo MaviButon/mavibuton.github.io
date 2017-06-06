@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+.ana_govde {
+	width:700px;
+	height:500px;
+	border-radius:15PX;
+	margin:auto;	
+	}
+.cubuk {
+	width:700px;
+	height:20px;
+	margin:10px auto;
+	border-radius:15PX;
+	}
+	
+.buton {
+	width:40px;
+	height:40px;
+	background:#c59;
+	border-radius:15PX;
+	margin:auto;
+}
