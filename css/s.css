@@ -20,6 +20,16 @@
 	border-radius:15PX;
 	margin:auto;
 }
-body {
-	background:url(../backg.png)
+
+body { 
+    background: url(../backg.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.buton {
+position: absolute;
+    top: 50%;
+    left: 50%
 }
